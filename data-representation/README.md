@@ -1,0 +1,3 @@
+# Low Level
+
+The repo is here to explain the fundamentals of information and computer science on a low level. This usuallly complies to concepts and workflows contained in low-level programming languages (i.e. C), assembly, or any other data structure involving instructions, machine code, 0s and 1s (bits), bytes... 
