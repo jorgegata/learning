@@ -1,3 +1,3 @@
 # Learning Repository
 
-Jorge's repository to learn all necessary content needed for his hobby projects and technical work.
+Repository to create a Knowledge Base for critical engineering concepts, mainly in the IT field.
