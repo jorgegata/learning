@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+His name is Fox Mulder.
+This is a story about a fox and a dog.
+THE END.

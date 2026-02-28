@@ -1,5 +1,9 @@
 # Learning Repository
 
-Jorge's repository to learn all necessary content needed for his hobby projects and technical work.
+Jorge's central knowledge base tracked as a set of `.md` files. 
 
-A
+The taxonomy differentiates into
+
+- technical:pure software engineering / data science / ml engineer / data engineering concepts.
+
+- non-technical: soft skills, mental frameworks, mental methodologies for metalearning and some other concepts.
